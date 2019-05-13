@@ -1,0 +1,1 @@
+Demo CNN dùng dataset MNIST.
